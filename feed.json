@@ -1,5 +1,5 @@
 {
-	"title": "Distinguished Webinar coding",
+	"title": "Distinguished Webinar",
 	"publisherName": "Domenico Caggiano",
 	"feedIdentifier" : "io.github.distinguishedwebinarcoding",
 	"contactURL" : "mailto:domenico.caggiano@gmail.com",
@@ -16,8 +16,8 @@
 		"url": "https://distinguishedwebinarcoding.github.io/cameraCreate/cameracreate.zip",
 		"publishedDate": "2022-11-12T09:00:00+07:00",
 		"lastUpdatedDate" : "2022-11-12T12:00:00+07:00",
-		"thumbnailURL": "https://istitutosacrocuore.github.io/3DWorlds/cover.png",
-		"bannerImageURL" : "https://istitutosacrocuore.github.io/3DWorlds/cover.png",
+		"thumbnailURL": "https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png",
+		"bannerImageURL" : "https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png",
 		"additionalInformation" : [
 			{
 			"name": "Editore:",
