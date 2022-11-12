@@ -12,7 +12,7 @@
         "description": "Gli studenti dell'Istituto Sacro Cuore di Napoli hanno utilizzato le competenze di programmazione acquisite nei corsi \"Impara a programmare 1&2\" per creare straordinari mondi tridimensionali e nuove sfide per i personaggi Byte, Hopper, Blu ed Expert. Torri, ponti, isole e labirinti sono stati arricchiti con elementi di gioco come gemme, portali ed interruttori. \n\nUn progetto entusiasmante che raccoglie:\n * nuovi livelli basati su storie fantastiche da far completare all'utilizzatore \n * rompicapi per risolvere i quali bisogna opportunamente guidare i personaggi usando il codice\n\nDivertiti anche tu! Puoi trarre ispirazione dal nostro Playground Book, per creare qualcosa di straordinario: un mondo tutto tuo!",
 		"difficultyLevel": "beginner",
 		"contentIdentifier": "io.github.distinguishedwebinarcoding.cameracreate",
-		"contentVersion": "2.0",
+		"contentVersion": "1.1",
 		"url": "https://distinguishedwebinarcoding.github.io/cameraCreate/cameracreate.zip",
 		"publishedDate": "2022-11-12T09:00:00+07:00",
 		"lastUpdatedDate" : "2022-11-12T12:00:00+07:00",
@@ -37,7 +37,7 @@
 			"value": "Italiano"
 			}
 		],
-        "previewImageURLs" : ["https://istitutosacrocuore.github.io/3DWorlds/puzzle_world_1.jpg","https://istitutosacrocuore.github.io/3DWorlds/puzzle_world_2.jpg","https://istitutosacrocuore.github.io/3DWorlds/puzzle_world_3.jpg","https://istitutosacrocuore.github.io/3DWorlds/puzzle_world_4.jpg"]
+        "previewImageURLs" : ["https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png","https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png","https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png","https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png""]
 	}
 ]
 }
