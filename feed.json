@@ -9,7 +9,7 @@
 		"title" : "Costruiamo un'app fotografica",
 		"overviewSubtitle" : "...mattone su mattone",
 		"detailSubtitle": "Progetta, personalizza e crea l'app 📷 tuoi sogni",
-        "description": "Gli studenti dell'Istituto Sacro Cuore di Napoli hanno utilizzato le competenze di programmazione acquisite nei corsi \"Impara a programmare 1&2\" per creare straordinari mondi tridimensionali e nuove sfide per i personaggi Byte, Hopper, Blu ed Expert. Torri, ponti, isole e labirinti sono stati arricchiti con elementi di gioco come gemme, portali ed interruttori. \n\nUn progetto entusiasmante che raccoglie:\n * nuovi livelli basati su storie fantastiche da far completare all'utilizzatore \n * rompicapi per risolvere i quali bisogna opportunamente guidare i personaggi usando il codice\n\nDivertiti anche tu! Puoi trarre ispirazione dal nostro Playground Book, per creare qualcosa di straordinario: un mondo tutto tuo!",
+        "description": "In questo Playground Book avvincente imparerai a personalizzare un’app fotografica, usando e connettendo componenti come una fotocamera, una vista immagine e una vista album fotografico, in modo da poter scattare foto e visualizzarne l’anteprima. \n\nImparerai anche a gestire un editor fotografico per: \n * decorare le foto con adesivi, etichette e bordi \n * usare le foto per creare meme personalizzati e divertenti  \n * salvare le foto decorate nell’app Foto su iPad o a condividerle con amici e familiari.\n\nDivertiti anche tu! Puoi trarre ispirazione dal nostro Playground Book, per creare qualcosa di straordinario: l’app fotografica dei suoi sogni!",
 		"difficultyLevel": "intermediate",
 		"contentIdentifier": "io.github.distinguishedwebinarcoding.cameracreate",
 		"contentVersion": "1.1",
