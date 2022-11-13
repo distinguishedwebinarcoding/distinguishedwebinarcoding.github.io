@@ -50,8 +50,8 @@
 		"url": "https://distinguishedwebinarcoding.github.io/cameratocomplete/cameratocomplete.zip",
 		"publishedDate": "2022-11-12T09:00:00+07:00",
 		"lastUpdatedDate" : "2022-11-12T12:00:00+07:00",
-		"thumbnailURL": "https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png",
-		"bannerImageURL" : "https://distinguishedwebinarcoding.github.io/cameraCreate/cover.png",
+		"thumbnailURL": "https://distinguishedwebinarcoding.github.io/cameratocomplete/covertbc.png",
+		"bannerImageURL" : "https://distinguishedwebinarcoding.github.io/cameratocomplete/covertbc.png",
 		"additionalInformation" : [
 			{
 			"name": "Editore:",
@@ -71,7 +71,7 @@
 			"value": "Italiano"
 			}
 		],
-        "previewImageURLs" : ["https://distinguishedwebinarcoding.github.io/cameraCreate/screen1.png","https://distinguishedwebinarcoding.github.io/cameraCreate/screen2.png","https://distinguishedwebinarcoding.github.io/cameraCreate/screen3.png","https://distinguishedwebinarcoding.github.io/cameraCreate/screen4.jpg"]
+        "previewImageURLs" : ["https://distinguishedwebinarcoding.github.io/cameratocomplete/screen1tbc.jpg","https://distinguishedwebinarcoding.github.io/cameratocomplete/screen2tbc.jpg"]
 	}
 ]
 }
