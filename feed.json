@@ -41,7 +41,7 @@
 	},
 		{
 		"title" : "Completiamo l'app fotografica",
-		"overviewSubtitle" : "...aggiungiamo la Foto Camera",
+		"overviewSubtitle" : "...aggiungiamo la fotocamera",
 		"detailSubtitle": "Progetta, personalizza e crea la tua 📷 ",
         "description": "In questo Playground Book imparerai a personalizzare un’app fotografica, progettando il tuo componente Foto Camera",
 		"difficultyLevel": "intermediate",
