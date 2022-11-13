@@ -6,9 +6,9 @@
 	"formatVersion": "1.1",
 	"documents": [
 	{
-		"title" : "La mia app fotografica",
-		"overviewSubtitle" : "Crea un mondo tutto tuo",
-		"detailSubtitle": "Creazione di ricche ambientazioni in 3D",
+		"title" : "Costruiamo un'app fotografica",
+		"overviewSubtitle" : "...mattone su mattone",
+		"detailSubtitle": "Progetta, personalizza e crea l'app 📷 tuoi sogni",
         "description": "Gli studenti dell'Istituto Sacro Cuore di Napoli hanno utilizzato le competenze di programmazione acquisite nei corsi \"Impara a programmare 1&2\" per creare straordinari mondi tridimensionali e nuove sfide per i personaggi Byte, Hopper, Blu ed Expert. Torri, ponti, isole e labirinti sono stati arricchiti con elementi di gioco come gemme, portali ed interruttori. \n\nUn progetto entusiasmante che raccoglie:\n * nuovi livelli basati su storie fantastiche da far completare all'utilizzatore \n * rompicapi per risolvere i quali bisogna opportunamente guidare i personaggi usando il codice\n\nDivertiti anche tu! Puoi trarre ispirazione dal nostro Playground Book, per creare qualcosa di straordinario: un mondo tutto tuo!",
 		"difficultyLevel": "intermediate",
 		"contentIdentifier": "io.github.distinguishedwebinarcoding.cameracreate",
