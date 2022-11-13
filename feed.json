@@ -40,10 +40,10 @@
         "previewImageURLs" : ["https://distinguishedwebinarcoding.github.io/cameraCreate/screen1.png","https://distinguishedwebinarcoding.github.io/cameraCreate/screen2.png","https://distinguishedwebinarcoding.github.io/cameraCreate/screen3.png","https://distinguishedwebinarcoding.github.io/cameraCreate/screen4.jpg"]
 	},
 		{
-		"title" : "Costruiamo un'app fotografica",
-		"overviewSubtitle" : "...mattone su mattone",
-		"detailSubtitle": "Progetta, personalizza e crea l'app 📷 tuoi sogni",
-        "description": "In questo Playground Book avvincente imparerai a personalizzare un’app fotografica, usando e connettendo componenti come una fotocamera, una vista immagine e una vista album fotografico, in modo da poter scattare foto e visualizzarne l’anteprima. \n\nImparerai anche a gestire un editor fotografico per: \n * decorare le foto con adesivi, etichette e bordi \n * usare le foto per creare meme personalizzati e divertenti  \n * salvare le foto decorate nell’app Foto su iPad o a condividerle con amici e familiari.\n\nDivertiti anche tu! Puoi trarre ispirazione dal nostro Playground Book, per creare qualcosa di straordinario: l’app fotografica dei suoi sogni!",
+		"title" : "Completiamo l'app fotografica",
+		"overviewSubtitle" : "...aggiungiamo la Foto Camera",
+		"detailSubtitle": "Progetta, personalizza e crea la tua 📷 ",
+        "description": "In questo Playground Book imparerai a personalizzare un’app fotografica, progettando il tuo componente Foto Camera",
 		"difficultyLevel": "intermediate",
 		"contentIdentifier": "io.github.distinguishedwebinarcoding.cameratocomplete",
 		"contentVersion": "1.1",
